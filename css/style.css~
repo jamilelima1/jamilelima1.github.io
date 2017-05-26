@@ -1,0 +1,42 @@
+.divviolet{
+background-color:#FF83FA;
+}
+
+.divmaroon{
+background-color:#EEA2AD;
+}
+ 
+.font-1{
+ 
+   font-weight:normal;
+   font-style:normal;
+}
+.font-2{ 
+   font-weight:normal;
+   font-style:normal;
+}
+
+.card{
+padding: 20px;
+color: white;
+justify-content: center;
+text-align: center;
+border: 2px solid;
+border-radius: 8px;
+
+}
+
+.card > span {
+font-size: 60pt;
+}
+
+.footer{
+background-color:black;
+padding:10px;
+color:black;
+}
+.footer span{
+font-size:12pt;
+}
+
+

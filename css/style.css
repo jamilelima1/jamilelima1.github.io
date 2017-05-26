@@ -1,0 +1,79 @@
+.divviolet{
+background-color:#FF83FA;
+}
+
+.divmaroon{
+background-color:#EEA2AD;
+}
+ 
+.font-1{
+ 
+   font-weight:normal;
+   font-style:normal;
+}
+.font-2{ 
+   font-weight:normal;
+   font-style:normal;
+}
+
+.card{
+padding: 20px;
+color: white;
+justify-content: center;
+text-align: center;
+border: 2px solid;
+border-radius: 8px;
+
+}
+
+.card > span {
+font-size: 60pt;
+}
+
+.footer{
+background-color:black;
+padding:10px;
+color:white;
+}
+.footer span{
+font-size:12pt;
+}
+
+.blog-data{
+background-color:pink;
+color:black;
+border-radius:3px;
+}
+
+
+.blog-data .dia{
+font-size:36pt;
+}
+
+.blog-data .mes{
+font-size:12pt;
+}
+
+.blog-autor{
+font-size: 20pt;
+color:red;
+}
+
+.blog-previa{
+font-size:16pt;
+}
+
+.imgprevia{
+width:500px;
+height:300px;
+}
+
+.post-nav span{
+font-size:30pt;
+}
+
+.post-nav{
+background-color: #eee;
+padding-top: 20px;
+padding-bottom: 20px;
+}
